@@ -1,4 +1,5 @@
 ## KODING'S GLOBAL VIRTUAL HACKATHON
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/n370/global.hackathon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Welcome to the git repo for Koding's Global Virtual Hackathon! If that 
 does not ring a bell, please
